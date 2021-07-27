@@ -40,7 +40,3 @@ function App() {
 export default App;
 
 
-/*user profile*/
-/*navigation*/
-/*all messages*/
-/*direct messages*/
