@@ -1,0 +1,32 @@
+.swipeButton {
+    position: fixed;
+    bottom: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.swipeButton .MuiIconButton-root{
+    background-color: #f17bb1;
+    box-shadow: 0px 10px 52px 0px rgba(0, 0, 0, 0.4);
+}
+
+.swipe_last {
+    color: black !important;
+}
+
+.swipe_left {
+    color: black !important;
+}
+
+.swipe_rank {
+    color: black !important;
+}
+
+.swipe_right {
+    color: black !important;
+}
+
+.swipe_unsure{
+    color: black !important;
+}

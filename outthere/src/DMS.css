@@ -1,0 +1,41 @@
+.DMS__message {
+    display:flex;
+    align-items: center;
+    padding: 25px;
+}
+
+
+.DMS__text {
+    margin-left: 10px;
+    background-color: gray;
+    padding: 15px;
+    boarder-radius: 20px;
+}
+
+.DMS__Match {
+    text-align: center;
+    padding: 15px;
+}
+
+.text__input {
+    display: flex;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 2px solid #a558a5;
+}
+
+.text__field {
+    flex: 1;
+    padding: 5px;
+    border: 0px;
+}
+
+.send__it {
+    border: 0px;
+    margin-right: 40px;
+    background-color: white;
+    font-weight: bold;
+    color: #f17bb1;
+}

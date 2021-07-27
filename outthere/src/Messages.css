@@ -1,0 +1,29 @@
+.messages {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 22px;
+    height: 50px;
+    border-bottom: 2px solid #f17bb1;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.chat__information {
+    flex: 1;
+}
+
+.chat__information > p  {
+    color: black;
+}
+
+.chat__time {
+    color: #a558a5;
+}
+
+.chat__image {
+    margin-right: 25px;
+}
