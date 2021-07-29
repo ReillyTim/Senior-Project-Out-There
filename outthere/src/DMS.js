@@ -12,7 +12,7 @@ function DMS() {
 
     return (
         <div className="DMS">
-            <p className="DMS__Match">You Found Someone Out There!</p>
+            <p className="DMS__Match">You Found Someone Out There! You both like Italian Food.</p>
             {messages.map((message) => (
                 <div className="DMS__message">
                     <Avatar className="DMS__img" src={message.image} alt={message.name} />
